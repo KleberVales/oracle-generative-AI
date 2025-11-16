@@ -27,6 +27,8 @@ Conceitos fundamentais que explicam como os modelos de linguagem funcionam:
 Estudo do serviço de IA generativa da Oracle:
 
 - Características e capacidades
+- Modelos disponíveis
+
 
 
 
