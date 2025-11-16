@@ -46,6 +46,52 @@ Detalhamento completo da arquitetura de RAG (Retrieval-Augmented Generation) usa
 
 ---
 
+### **04. Chatbot using Generative AI Agent service**
+Construção de agentes inteligentes utilizando:
+- Oracle Generative AI Agents
+- Memória, ferramentas e RAG integrado
+- Data sources, knowledge bases e endpoints
+- Integração com Object Storage, OpenSearch e Oracle 23ai
+- Estrutura completa de um agente corporativo
+
+---
+
+## 🎯 Objetivo do Repositório
+
+Este projeto tem como objetivo:
+- Consolidar conhecimento prático e teórico sobre IA generativa no ecossistema Oracle  
+- Criar uma fonte organizada de estudo e revisão  
+- Servir como base para futuras implementações e projetos reais  
+- Facilitar consultas rápidas sobre conceitos importantes  
+
+---
+
+## 🛠️ Tecnologias Estudadas
+
+- **OCI Generative AI**
+- **Oracle 23ai (Vector Search + SELECT AI)**
+- **Oracle Generative AI Agents**
+- **LangChain**
+- **RAG Pipelines**
+- **Large Language Models (LLMs)**
+
+---
+
+## 📄 Como navegar
+
+Basta acessar a aba **Wiki** do repositório para visualizar os tópicos detalhados.  
+Cada página contém explicações claras, fluxos, conceitos e resumos organizados para facilitar o aprendizado.
+
+---
+
+## 📬 Contato
+
+Para dúvidas, sugestões ou contribuições, fique à vontade para abrir uma *issue*.
+
+---
+
+> 🚀 *Este repositório será atualizado continuamente conforme avanço nos estudos e projetos práticos envolvendo IA Generativa na Oracle Cloud Infrastructure (OCI).*
+
 
 
 
