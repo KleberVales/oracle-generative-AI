@@ -23,4 +23,7 @@ Conceitos fundamentais que explicam como os modelos de linguagem funcionam:
 
 ---
 
+### **02. OCI Generative AI Service**
+
+
 
