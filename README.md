@@ -29,6 +29,7 @@ Estudo do serviço de IA generativa da Oracle:
 - Características e capacidades
 - Modelos disponíveis
 - Fine-tuning e customização
+- Embeddings
 
 
 
