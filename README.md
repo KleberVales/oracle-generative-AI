@@ -38,6 +38,14 @@ Estudo do serviço de IA generativa da Oracle:
 ### **03. RAG using Generative AI service and Oracle 23ai Vector Search**
 Detalhamento completo da arquitetura de RAG (Retrieval-Augmented Generation) usando:
 
+- OCI Generative AI (LLMs + embeddings)
+- Oracle 23ai (Vector Search)
+- Fluxo completo: ingestão → indexação → recuperação → geração
+- Componentes envolvidos no pipeline
+- Benefícios e casos de uso
+
+---
+
 
 
 
