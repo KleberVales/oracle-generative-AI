@@ -35,6 +35,9 @@ Estudo do serviço de IA generativa da Oracle:
 
 ---
 
+### **03. RAG using Generative AI service and Oracle 23ai Vector Search**
+
+
 
 
 
