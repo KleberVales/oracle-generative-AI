@@ -14,4 +14,13 @@ A Wiki está dividida em quatro seções principais:
 
 Conceitos fundamentais que explicam como os modelos de linguagem funcionam:
 
+- Arquitetura Transformer  
+- Encoders, Decoders e Encoder-Decoder  
+- Tokenização  
+- Prompt Engineering  
+- In-Context Learning e k-shot prompting  
+- Métodos de treinamento (Fine-tuning, PEFT, Soft Prompting, Continual Pretraining)
+
+---
+
 
