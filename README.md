@@ -12,3 +12,6 @@ A Wiki está dividida em quatro seções principais:
 
 ### **01. Fundamentals of Large Language Models**
 
+Conceitos fundamentais que explicam como os modelos de linguagem funcionam:
+
+
