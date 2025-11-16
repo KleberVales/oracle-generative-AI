@@ -31,8 +31,9 @@ Estudo do serviço de IA generativa da Oracle:
 - Fine-tuning e customização
 - Embeddings
 - Dedicated AI Clusters
+- Integrações e APIs
 
-
+---
 
 
 
