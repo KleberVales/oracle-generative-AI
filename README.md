@@ -5,3 +5,7 @@ Este repositório reúne meus estudos sobre o ecossistema de **IA Generativa da 
 A Wiki associada ao repositório contém um resumo estruturado dos principais tópicos abordados no curso e na documentação oficial da Oracle.
 
 ---
+
+## 📚 Conteúdo da Wiki
+
+A Wiki está dividida em quatro seções principais:
